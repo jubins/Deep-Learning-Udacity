@@ -13,7 +13,6 @@ CE = -sigma(i to m) Yi*ln(Pi) + (1-Yi)*ln(1-Pi) ; where Yi*ln(Pi) is probability
 '''
 
 import numpy as np
-
 # Write a function that takes as input two lists Y, P,
 # and returns the float corresponding to their cross-entropy.
 def cross_entropy(Y, P):
@@ -35,7 +34,6 @@ def main():
     Y = [1, 1, 0, 0]
     P = [0.4, 0.6, 0.1, 0.5]
     print(cross_entropy(Y, P))
-
 
 if __name__ == '__main__':
     main()

@@ -11,12 +11,10 @@ P(class i) = e^Zi / (e^Z1 + e^Z2 + ... + e^Zn)
 import numpy as np
 # Write a function that takes as input a list of numbers, and returns
 # the list of values given by the softmax function.
-
 def softmax(L):
     sum_z = sum(np.exp(L))
     softmax_score = [np.exp(Zi)/sum_z for Zi in L]
     return softmax_score
-
 
 def main():
     #Test case#1 (Udacity)
@@ -27,7 +25,6 @@ def main():
     #Test case#2
     L = [1,2,3,4,5,6,7,8,9]
     print(softmax(L))
-
 
 if __name__ == '__main__':
     main()
