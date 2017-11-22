@@ -9,9 +9,7 @@ is unlikely then we have a large cross-entropy.
 Cross Entropy Formula:
 CE = -sigma(i to m) Yi*ln(Pi) + (1-Yi)*ln(1-Pi) ; where Yi*ln(Pi) is probability of likelihood with Yi being 0 in (1-Yi)
                                              and (1-Yi)*ln(1-Pi) is probability of unlikelihood with Yi being 0 in Yi
-
 '''
-
 import numpy as np
 # Write a function that takes as input two lists Y, P,
 # and returns the float corresponding to their cross-entropy.

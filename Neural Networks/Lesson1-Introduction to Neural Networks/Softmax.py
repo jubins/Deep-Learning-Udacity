@@ -6,7 +6,6 @@ In softmax we use exponential function as it always returns positive values.
 
 Softmax Formula:
 P(class i) = e^Zi / (e^Z1 + e^Z2 + ... + e^Zn)
-
 '''
 import numpy as np
 # Write a function that takes as input a list of numbers, and returns
