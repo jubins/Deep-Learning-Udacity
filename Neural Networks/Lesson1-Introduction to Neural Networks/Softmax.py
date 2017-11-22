@@ -1,5 +1,6 @@
 '''
 Python 3
+@jubin-soni
 The softmax function is the equivalent of the sigmoid activation function, but when the problem has 3 or more classes.
 In softmax we use exponential function as it always returns positive values.
 
@@ -30,5 +31,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
