@@ -18,9 +18,21 @@
       <file leaf-file-name="my_answers.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Neural Networks/Project-First-Neural-Network/my_answers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="145" column="20" lean-forward="false" selection-start-line="145" selection-start-column="20" selection-end-line="145" selection-end-column="20" />
+            <state relative-caret-position="230">
+              <caret line="141" column="16" lean-forward="false" selection-start-line="141" selection-start-column="16" selection-end-line="141" selection-end-column="16" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="quiz-multiple-linear-regression.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Neural Networks/Lesson5-Linear Regression/quiz-multiple-linear-regression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -28,8 +40,8 @@
       <file leaf-file-name="backprop.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Neural Networks/Lesson2-Implementing Gradient Descent/Implementing Backpropagation/backprop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="42" column="25" lean-forward="false" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+            <state relative-caret-position="0">
+              <caret line="34" column="1" lean-forward="false" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -68,6 +80,8 @@
         <option value="$PROJECT_DIR$/Neural Networks/Lesson2-Implementing Gradient Descent/backprop.py" />
         <option value="$PROJECT_DIR$/Neural Networks/Lesson2-Implementing Gradient Descent/Implementing Backpropagation/data_prep.py" />
         <option value="$PROJECT_DIR$/Neural Networks/Lesson2-Implementing Gradient Descent/Implementing Backpropagation/backprop.py" />
+        <option value="$PROJECT_DIR$/Neural Networks/Lesson5-Linear Regression/gapminder1.py" />
+        <option value="$PROJECT_DIR$/Neural Networks/Lesson5-Linear Regression/quiz-multiple-linear-regression.py" />
         <option value="$PROJECT_DIR$/Neural Networks/Project-First-Neural-Network/my_answers.py" />
       </list>
     </option>
@@ -136,6 +150,24 @@
               <option name="myItemId" value="Neural Networks" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lesson5-Linear Regression" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Deep-Learning-Udacity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Deep-Learning-Udacity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Neural Networks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -176,41 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.backprop (1)">
-    <configuration default="false" name="gradient" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Neural Networks/Lesson2-Implementing Gradient Descent/Implementing Gradient Descent" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Deep-Learning-Udacity" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Neural Networks/Lesson2-Implementing Gradient Descent/Implementing Gradient Descent/gradient.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="multilayer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Neural Networks/Lesson2-Implementing Gradient Descent" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Deep-Learning-Udacity" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Neural Networks/Lesson2-Implementing Gradient Descent/multilayer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.quiz-multiple-linear-regression">
     <configuration default="false" name="backprop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -258,6 +256,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Deep-Learning-Udacity" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Neural Networks/Project-First-Neural-Network/my_answers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="gapminder1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Neural Networks/Lesson5-Linear Regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Deep-Learning-Udacity" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Neural Networks/Lesson5-Linear Regression/gapminder1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="quiz-multiple-linear-regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Neural Networks/Lesson5-Linear Regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Deep-Learning-Udacity" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Neural Networks/Lesson5-Linear Regression/quiz-multiple-linear-regression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -397,19 +429,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.gradient" />
-      <item index="1" class="java.lang.String" itemvalue="Python.multilayer" />
-      <item index="2" class="java.lang.String" itemvalue="Python.backprop" />
-      <item index="3" class="java.lang.String" itemvalue="Python.backprop (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.my_answers" />
+      <item index="0" class="java.lang.String" itemvalue="Python.backprop" />
+      <item index="1" class="java.lang.String" itemvalue="Python.backprop (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.my_answers" />
+      <item index="3" class="java.lang.String" itemvalue="Python.gapminder1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.quiz-multiple-linear-regression" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.backprop (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.my_answers" />
-        <item index="2" class="java.lang.String" itemvalue="Python.backprop" />
-        <item index="3" class="java.lang.String" itemvalue="Python.multilayer" />
-        <item index="4" class="java.lang.String" itemvalue="Python.gradient" />
+        <item index="0" class="java.lang.String" itemvalue="Python.quiz-multiple-linear-regression" />
+        <item index="1" class="java.lang.String" itemvalue="Python.gapminder1" />
+        <item index="2" class="java.lang.String" itemvalue="Python.backprop (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.my_answers" />
+        <item index="4" class="java.lang.String" itemvalue="Python.backprop" />
       </list>
     </recent_temporary>
   </component>
@@ -552,16 +584,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Neural Networks/Lesson2-Implementing Gradient Descent/Implementing Backpropagation/backprop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="42" column="25" lean-forward="false" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_first_neural_network-165838.zip/my_answers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -570,10 +592,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Neural Networks/Lesson5-Linear Regression/gapminder1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding>
+            <element signature="e#30#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Neural Networks/Lesson5-Linear Regression/quiz-multiple-linear-regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Neural Networks/Lesson2-Implementing Gradient Descent/Implementing Backpropagation/backprop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="34" column="1" lean-forward="false" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Neural Networks/Project-First-Neural-Network/my_answers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="145" column="20" lean-forward="false" selection-start-line="145" selection-start-column="20" selection-end-line="145" selection-end-column="20" />
+        <state relative-caret-position="230">
+          <caret line="141" column="16" lean-forward="false" selection-start-line="141" selection-start-column="16" selection-end-line="141" selection-end-column="16" />
           <folding />
         </state>
       </provider>
